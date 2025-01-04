@@ -1,0 +1,16 @@
+{
+  "name": "w-api",
+  "version": "1.0.0",
+  "main": "w-api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "qrcode": "^1.5.4",
+    "whatsapp-web.js": "^1.26.0"
+  }
+}
